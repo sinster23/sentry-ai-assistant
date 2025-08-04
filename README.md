@@ -61,12 +61,17 @@ Create a .env file in the root directory:
   WEATHER_API_KEY= WEATHER_API_KEY
 ```
 ### 4. Run the app
+```
+npx expo start
+```
 
 ### 5. Set up gemini-backend
 - Navigate to backend/
 - Install dependencies: npm install
 - populate .env
 - Start server: node index.js
+
+---
 
 ## 👨‍💻 Author
 Made with ❤️ by Upayan
