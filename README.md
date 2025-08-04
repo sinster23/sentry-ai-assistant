@@ -1,6 +1,6 @@
 # 🤖 Sentry AI Assistant
 
-Sentry is a cross-platform AI assistant app built with React Native and powered by Google Gemini. It supports both text and voice input, delivering smart, contextual responses and quick actions to assist users on the go.
+Sentry is a cross-platform AI assistant app built with React Native and powered by Google Gemini. It supports text input, delivering smart, contextual responses and quick actions to assist users on the go.
 
 ---
 
@@ -19,7 +19,8 @@ Sentry is a cross-platform AI assistant app built with React Native and powered 
 
 ## ✨ Features
 
-- 🔊 **Voice & Text Input**: Talk or type naturally to interact with your assistant.
+- 🔊 **Text Input**: Type naturally to interact with your assistant.
+- 🗣️ AI Voice Responses: Uses expo-speech to read out Gemini’s replies in a natural voice.
 - 💬 **Contextual Responses**: Powered by Gemini to understand and respond meaningfully.
 - 🎯 **Quick Actions**: Trigger smart actions like opening apps or setting reminders.
 - 🌓 **Animated UI**: Smooth, responsive interface with interactive elements.
